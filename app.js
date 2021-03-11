@@ -1,0 +1,11 @@
+let songs = new Array("Like a Rolling Stone", "I Can't Get No Satisfaction", "Imagine", "What's Going On?", "Respect");
+document.getElementById("song1").innerHTML = songs[0];
+document.getElementById("song2").innerHTML = songs[1];
+document.getElementById("song3").innerHTML = songs[2];
+document.getElementById("song4").innerHTML = songs[3];
+document.getElementById("song5").innerHTML = songs[4];
+document.getElementById("listsong1").innerHTML = songs[0];
+document.getElementById("listsong2").innerHTML = songs[1];
+document.getElementById("listsong3").innerHTML = songs[2];
+document.getElementById("listsong4").innerHTML = songs[3];
+document.getElementById("listsong5").innerHTML = songs[4];
